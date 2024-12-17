@@ -1,6 +1,7 @@
 ### Perfil
 
-Analista de Dados
+Técnica em Desenvolvimento de Sistemas
+
 
 
 <div style="display: inline_block"><br>
