@@ -1,6 +1,6 @@
 ### Perfil
 
-Programador front-end
+Técnica em Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/KarolVSDev">
