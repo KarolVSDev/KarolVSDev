@@ -2,12 +2,7 @@
 
 Analista de Dados
 
-#<div>
-  #<a href="https://github.com/KarolVSDev">
-  #<img height="150px" width="400px" src=""/>
-  #<img height="150px" width="400px" src=""/>
-#</div>
-  </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Di-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
